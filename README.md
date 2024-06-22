@@ -1,2 +1,2 @@
 # netflixclone
-this is for creating a netflix clone..
+this is done  for creating a netflix clone..
